@@ -1,0 +1,785 @@
+Logging to ./experiments/Walker2d-v2./OURS-LOADED/noent_klcoeffanneal_samesgdsteps5_longer_wgae0.95_exp2_mpicpu_testkl-2__0
+********** Iteration 0 ************
+Optimizing Policy...
+------------------------------------------
+| EpLenMean               | 18.9         |
+| EpRewMean               | -1.06        |
+| EpThisIter              | 116          |
+| EpisodesSoFar           | 116          |
+| TimeElapsed             | 2.23         |
+| TimestepsSoFar          | 2048         |
+| Tsallis-q               | 1            |
+| entloss                 | 0.0          |
+| entropy                 | 8.510651     |
+| explained_variance_t... | -0.432       |
+| meankl                  | 0.000930874  |
+| optimgain               | 0.0074641868 |
+| surrgain                | 0.0074641868 |
+------------------------------------------
+********** Iteration 1 ************
+Optimizing Policy...
+------------------------------------------
+| EpLenMean               | 18.2         |
+| EpRewMean               | 0.521        |
+| EpThisIter              | 107          |
+| EpisodesSoFar           | 223          |
+| TimeElapsed             | 4.03         |
+| TimestepsSoFar          | 4096         |
+| Tsallis-q               | 1            |
+| entloss                 | 0.0          |
+| entropy                 | 8.508547     |
+| explained_variance_t... | 0.0137       |
+| meankl                  | 0.0007880763 |
+| optimgain               | 0.006703059  |
+| surrgain                | 0.006703059  |
+------------------------------------------
+********** Iteration 2 ************
+Optimizing Policy...
+------------------------------------------
+| EpLenMean               | 17           |
+| EpRewMean               | -1.5         |
+| EpThisIter              | 111          |
+| EpisodesSoFar           | 334          |
+| TimeElapsed             | 6.71         |
+| TimestepsSoFar          | 6144         |
+| Tsallis-q               | 1            |
+| entloss                 | 0.0          |
+| entropy                 | 8.506499     |
+| explained_variance_t... | 0.184        |
+| meankl                  | 0.0011423664 |
+| optimgain               | 0.009636556  |
+| surrgain                | 0.009636556  |
+------------------------------------------
+********** Iteration 3 ************
+Optimizing Policy...
+-----------------------------------------
+| EpLenMean               | 17.5        |
+| EpRewMean               | 1.21        |
+| EpThisIter              | 113         |
+| EpisodesSoFar           | 447         |
+| TimeElapsed             | 8.62        |
+| TimestepsSoFar          | 8192        |
+| Tsallis-q               | 1           |
+| entloss                 | 0.0         |
+| entropy                 | 8.503792    |
+| explained_variance_t... | 0.212       |
+| meankl                  | 0.001097518 |
+| optimgain               | 0.007985137 |
+| surrgain                | 0.007985137 |
+-----------------------------------------
+********** Iteration 4 ************
+Optimizing Policy...
+------------------------------------------
+| EpLenMean               | 19.1         |
+| EpRewMean               | 0.703        |
+| EpThisIter              | 103          |
+| EpisodesSoFar           | 550          |
+| TimeElapsed             | 10.4         |
+| TimestepsSoFar          | 10240        |
+| Tsallis-q               | 1            |
+| entloss                 | 0.0          |
+| entropy                 | 8.502083     |
+| explained_variance_t... | 0.294        |
+| meankl                  | 0.0010437265 |
+| optimgain               | 0.007603502  |
+| surrgain                | 0.007603502  |
+------------------------------------------
+********** Iteration 5 ************
+Optimizing Policy...
+------------------------------------------
+| EpLenMean               | 18.9         |
+| EpRewMean               | 1.43         |
+| EpThisIter              | 106          |
+| EpisodesSoFar           | 656          |
+| TimeElapsed             | 12.2         |
+| TimestepsSoFar          | 12288        |
+| Tsallis-q               | 1            |
+| entloss                 | 0.0          |
+| entropy                 | 8.500496     |
+| explained_variance_t... | 0.264        |
+| meankl                  | 0.0013331822 |
+| optimgain               | 0.010259706  |
+| surrgain                | 0.010259706  |
+------------------------------------------
+********** Iteration 6 ************
+Optimizing Policy...
+------------------------------------------
+| EpLenMean               | 18.3         |
+| EpRewMean               | 0.745        |
+| EpThisIter              | 111          |
+| EpisodesSoFar           | 767          |
+| TimeElapsed             | 14.1         |
+| TimestepsSoFar          | 14336        |
+| Tsallis-q               | 1            |
+| entloss                 | 0.0          |
+| entropy                 | 8.49807      |
+| explained_variance_t... | 0.312        |
+| meankl                  | 0.0018203023 |
+| optimgain               | 0.012001624  |
+| surrgain                | 0.012001624  |
+------------------------------------------
+********** Iteration 7 ************
+Optimizing Policy...
+-----------------------------------------
+| EpLenMean               | 18.9        |
+| EpRewMean               | 2.63        |
+| EpThisIter              | 101         |
+| EpisodesSoFar           | 868         |
+| TimeElapsed             | 15.9        |
+| TimestepsSoFar          | 16384       |
+| Tsallis-q               | 1           |
+| entloss                 | 0.0         |
+| entropy                 | 8.49476     |
+| explained_variance_t... | 0.339       |
+| meankl                  | 0.002632366 |
+| optimgain               | 0.014955549 |
+| surrgain                | 0.014955549 |
+-----------------------------------------
+********** Iteration 8 ************
+Optimizing Policy...
+------------------------------------------
+| EpLenMean               | 22           |
+| EpRewMean               | 5.37         |
+| EpThisIter              | 90           |
+| EpisodesSoFar           | 958          |
+| TimeElapsed             | 17.7         |
+| TimestepsSoFar          | 18432        |
+| Tsallis-q               | 1            |
+| entloss                 | 0.0          |
+| entropy                 | 8.492281     |
+| explained_variance_t... | 0.29         |
+| meankl                  | 0.0030565886 |
+| optimgain               | 0.012233186  |
+| surrgain                | 0.012233186  |
+------------------------------------------
+********** Iteration 9 ************
+Optimizing Policy...
+-----------------------------------------
+| EpLenMean               | 23.2        |
+| EpRewMean               | 4.63        |
+| EpThisIter              | 85          |
+| EpisodesSoFar           | 1043        |
+| TimeElapsed             | 19.5        |
+| TimestepsSoFar          | 20480       |
+| Tsallis-q               | 1           |
+| entloss                 | 0.0         |
+| entropy                 | 8.489659    |
+| explained_variance_t... | 0.371       |
+| meankl                  | 0.003771565 |
+| optimgain               | 0.013385098 |
+| surrgain                | 0.013385098 |
+-----------------------------------------
+********** Iteration 10 ************
+Optimizing Policy...
+-----------------------------------------
+| EpLenMean               | 24.6        |
+| EpRewMean               | 6.06        |
+| EpThisIter              | 83          |
+| EpisodesSoFar           | 1126        |
+| TimeElapsed             | 21.3        |
+| TimestepsSoFar          | 22528       |
+| Tsallis-q               | 1           |
+| entloss                 | 0.0         |
+| entropy                 | 8.485328    |
+| explained_variance_t... | 0.349       |
+| meankl                  | 0.004614449 |
+| optimgain               | 0.015939722 |
+| surrgain                | 0.015939722 |
+-----------------------------------------
+********** Iteration 11 ************
+Optimizing Policy...
+-----------------------------------------
+| EpLenMean               | 24.7        |
+| EpRewMean               | 8.16        |
+| EpThisIter              | 70          |
+| EpisodesSoFar           | 1196        |
+| TimeElapsed             | 23.1        |
+| TimestepsSoFar          | 24576       |
+| Tsallis-q               | 1           |
+| entloss                 | 0.0         |
+| entropy                 | 8.47827     |
+| explained_variance_t... | 0.34        |
+| meankl                  | 0.005641289 |
+| optimgain               | 0.012880525 |
+| surrgain                | 0.012880525 |
+-----------------------------------------
+********** Iteration 12 ************
+Optimizing Policy...
+-----------------------------------------
+| EpLenMean               | 32.4        |
+| EpRewMean               | 13.9        |
+| EpThisIter              | 62          |
+| EpisodesSoFar           | 1258        |
+| TimeElapsed             | 24.9        |
+| TimestepsSoFar          | 26624       |
+| Tsallis-q               | 1           |
+| entloss                 | 0.0         |
+| entropy                 | 8.472191    |
+| explained_variance_t... | 0.417       |
+| meankl                  | 0.006347364 |
+| optimgain               | 0.015766807 |
+| surrgain                | 0.015766807 |
+-----------------------------------------
+********** Iteration 13 ************
+Optimizing Policy...
+------------------------------------------
+| EpLenMean               | 32.5         |
+| EpRewMean               | 15.5         |
+| EpThisIter              | 62           |
+| EpisodesSoFar           | 1320         |
+| TimeElapsed             | 26.7         |
+| TimestepsSoFar          | 28672        |
+| Tsallis-q               | 1            |
+| entloss                 | 0.0          |
+| entropy                 | 8.46534      |
+| explained_variance_t... | 0.381        |
+| meankl                  | 0.0072914353 |
+| optimgain               | 0.01174622   |
+| surrgain                | 0.01174622   |
+------------------------------------------
+********** Iteration 14 ************
+Optimizing Policy...
+------------------------------------------
+| EpLenMean               | 41.3         |
+| EpRewMean               | 17.8         |
+| EpThisIter              | 51           |
+| EpisodesSoFar           | 1371         |
+| TimeElapsed             | 28.6         |
+| TimestepsSoFar          | 30720        |
+| Tsallis-q               | 1            |
+| entloss                 | 0.0          |
+| entropy                 | 8.4569025    |
+| explained_variance_t... | 0.474        |
+| meankl                  | 0.0075826347 |
+| optimgain               | 0.0108631905 |
+| surrgain                | 0.0108631905 |
+------------------------------------------
+********** Iteration 15 ************
+Optimizing Policy...
+------------------------------------------
+| EpLenMean               | 45.4         |
+| EpRewMean               | 29.2         |
+| EpThisIter              | 43           |
+| EpisodesSoFar           | 1414         |
+| TimeElapsed             | 30.4         |
+| TimestepsSoFar          | 32768        |
+| Tsallis-q               | 1            |
+| entloss                 | 0.0          |
+| entropy                 | 8.448352     |
+| explained_variance_t... | 0.502        |
+| meankl                  | 0.006919053  |
+| optimgain               | 0.0059633893 |
+| surrgain                | 0.0059633893 |
+------------------------------------------
+********** Iteration 16 ************
+Optimizing Policy...
+-----------------------------------------
+| EpLenMean               | 60          |
+| EpRewMean               | 49.9        |
+| EpThisIter              | 31          |
+| EpisodesSoFar           | 1445        |
+| TimeElapsed             | 32.2        |
+| TimestepsSoFar          | 34816       |
+| Tsallis-q               | 1           |
+| entloss                 | 0.0         |
+| entropy                 | 8.441168    |
+| explained_variance_t... | 0.546       |
+| meankl                  | 0.007270896 |
+| optimgain               | 0.011726743 |
+| surrgain                | 0.011726743 |
+-----------------------------------------
+********** Iteration 17 ************
+Optimizing Policy...
+-----------------------------------------
+| EpLenMean               | 53.5        |
+| EpRewMean               | 42.5        |
+| EpThisIter              | 36          |
+| EpisodesSoFar           | 1481        |
+| TimeElapsed             | 34          |
+| TimestepsSoFar          | 36864       |
+| Tsallis-q               | 1           |
+| entloss                 | 0.0         |
+| entropy                 | 8.434908    |
+| explained_variance_t... | 0.56        |
+| meankl                  | 0.008421394 |
+| optimgain               | 0.010926768 |
+| surrgain                | 0.010926768 |
+-----------------------------------------
+********** Iteration 18 ************
+Optimizing Policy...
+-----------------------------------------
+| EpLenMean               | 66.4        |
+| EpRewMean               | 69.2        |
+| EpThisIter              | 31          |
+| EpisodesSoFar           | 1512        |
+| TimeElapsed             | 35.9        |
+| TimestepsSoFar          | 38912       |
+| Tsallis-q               | 1           |
+| entloss                 | 0.0         |
+| entropy                 | 8.427973    |
+| explained_variance_t... | 0.627       |
+| meankl                  | 0.007943823 |
+| optimgain               | 0.007348628 |
+| surrgain                | 0.007348628 |
+-----------------------------------------
+********** Iteration 19 ************
+Optimizing Policy...
+------------------------------------------
+| EpLenMean               | 62           |
+| EpRewMean               | 58.6         |
+| EpThisIter              | 32           |
+| EpisodesSoFar           | 1544         |
+| TimeElapsed             | 37.7         |
+| TimestepsSoFar          | 40960        |
+| Tsallis-q               | 1            |
+| entloss                 | 0.0          |
+| entropy                 | 8.419701     |
+| explained_variance_t... | 0.678        |
+| meankl                  | 0.0041974992 |
+| optimgain               | 0.0026625032 |
+| surrgain                | 0.0026625032 |
+------------------------------------------
+********** Iteration 20 ************
+Optimizing Policy...
+------------------------------------------
+| EpLenMean               | 73.6         |
+| EpRewMean               | 78.6         |
+| EpThisIter              | 24           |
+| EpisodesSoFar           | 1568         |
+| TimeElapsed             | 39.4         |
+| TimestepsSoFar          | 43008        |
+| Tsallis-q               | 1            |
+| entloss                 | 0.0          |
+| entropy                 | 8.411893     |
+| explained_variance_t... | 0.743        |
+| meankl                  | 0.0030042198 |
+| optimgain               | 0.0042673005 |
+| surrgain                | 0.0042673005 |
+------------------------------------------
+********** Iteration 21 ************
+Optimizing Policy...
+------------------------------------------
+| EpLenMean               | 85.5         |
+| EpRewMean               | 110          |
+| EpThisIter              | 23           |
+| EpisodesSoFar           | 1591         |
+| TimeElapsed             | 41.3         |
+| TimestepsSoFar          | 45056        |
+| Tsallis-q               | 1            |
+| entloss                 | 0.0          |
+| entropy                 | 8.404055     |
+| explained_variance_t... | 0.764        |
+| meankl                  | 0.004409043  |
+| optimgain               | 0.0058452766 |
+| surrgain                | 0.0058452766 |
+------------------------------------------
+********** Iteration 22 ************
+Optimizing Policy...
+------------------------------------------
+| EpLenMean               | 92.8         |
+| EpRewMean               | 117          |
+| EpThisIter              | 21           |
+| EpisodesSoFar           | 1612         |
+| TimeElapsed             | 43.1         |
+| TimestepsSoFar          | 47104        |
+| Tsallis-q               | 1            |
+| entloss                 | 0.0          |
+| entropy                 | 8.397352     |
+| explained_variance_t... | 0.755        |
+| meankl                  | 0.0056926864 |
+| optimgain               | 0.005242532  |
+| surrgain                | 0.005242532  |
+------------------------------------------
+********** Iteration 23 ************
+Optimizing Policy...
+-------------------------------------------
+| EpLenMean               | 110           |
+| EpRewMean               | 143           |
+| EpThisIter              | 17            |
+| EpisodesSoFar           | 1629          |
+| TimeElapsed             | 44.9          |
+| TimestepsSoFar          | 49152         |
+| Tsallis-q               | 1             |
+| entloss                 | 0.0           |
+| entropy                 | 8.392113      |
+| explained_variance_t... | 0.779         |
+| meankl                  | 0.002048      |
+| optimgain               | 0.00086649717 |
+| surrgain                | 0.00086649717 |
+-------------------------------------------
+********** Iteration 24 ************
+Optimizing Policy...
+------------------------------------------
+| EpLenMean               | 103          |
+| EpRewMean               | 139          |
+| EpThisIter              | 23           |
+| EpisodesSoFar           | 1652         |
+| TimeElapsed             | 46.8         |
+| TimestepsSoFar          | 51200        |
+| Tsallis-q               | 1            |
+| entloss                 | 0.0          |
+| entropy                 | 8.386853     |
+| explained_variance_t... | 0.768        |
+| meankl                  | 0.0015330383 |
+| optimgain               | 0.0029903408 |
+| surrgain                | 0.0029903408 |
+------------------------------------------
+********** Iteration 25 ************
+Optimizing Policy...
+------------------------------------------
+| EpLenMean               | 94.8         |
+| EpRewMean               | 119          |
+| EpThisIter              | 19           |
+| EpisodesSoFar           | 1671         |
+| TimeElapsed             | 48.6         |
+| TimestepsSoFar          | 53248        |
+| Tsallis-q               | 1            |
+| entloss                 | 0.0          |
+| entropy                 | 8.382575     |
+| explained_variance_t... | 0.825        |
+| meankl                  | 0.0018877331 |
+| optimgain               | 0.0035708211 |
+| surrgain                | 0.0035708211 |
+------------------------------------------
+********** Iteration 26 ************
+Optimizing Policy...
+------------------------------------------
+| EpLenMean               | 116          |
+| EpRewMean               | 141          |
+| EpThisIter              | 13           |
+| EpisodesSoFar           | 1684         |
+| TimeElapsed             | 50.4         |
+| TimestepsSoFar          | 55296        |
+| Tsallis-q               | 1            |
+| entloss                 | 0.0          |
+| entropy                 | 8.37804      |
+| explained_variance_t... | 0.797        |
+| meankl                  | 0.0012739894 |
+| optimgain               | 0.002424968  |
+| surrgain                | 0.002424968  |
+------------------------------------------
+********** Iteration 27 ************
+Optimizing Policy...
+------------------------------------------
+| EpLenMean               | 125          |
+| EpRewMean               | 165          |
+| EpThisIter              | 17           |
+| EpisodesSoFar           | 1701         |
+| TimeElapsed             | 52.2         |
+| TimestepsSoFar          | 57344        |
+| Tsallis-q               | 1            |
+| entloss                 | 0.0          |
+| entropy                 | 8.373936     |
+| explained_variance_t... | 0.852        |
+| meankl                  | 0.0013712487 |
+| optimgain               | 0.0033343541 |
+| surrgain                | 0.0033343541 |
+------------------------------------------
+********** Iteration 28 ************
+Optimizing Policy...
+------------------------------------------
+| EpLenMean               | 123          |
+| EpRewMean               | 170          |
+| EpThisIter              | 18           |
+| EpisodesSoFar           | 1719         |
+| TimeElapsed             | 54           |
+| TimestepsSoFar          | 59392        |
+| Tsallis-q               | 1            |
+| entloss                 | 0.0          |
+| entropy                 | 8.369169     |
+| explained_variance_t... | 0.749        |
+| meankl                  | 0.0027850522 |
+| optimgain               | 0.005687083  |
+| surrgain                | 0.005687083  |
+------------------------------------------
+********** Iteration 29 ************
+Optimizing Policy...
+------------------------------------------
+| EpLenMean               | 122          |
+| EpRewMean               | 172          |
+| EpThisIter              | 17           |
+| EpisodesSoFar           | 1736         |
+| TimeElapsed             | 55.8         |
+| TimestepsSoFar          | 61440        |
+| Tsallis-q               | 1            |
+| entloss                 | 0.0          |
+| entropy                 | 8.363532     |
+| explained_variance_t... | 0.833        |
+| meankl                  | 0.002914762  |
+| optimgain               | 0.0043100948 |
+| surrgain                | 0.0043100948 |
+------------------------------------------
+********** Iteration 30 ************
+Optimizing Policy...
+-----------------------------------------
+| EpLenMean               | 130         |
+| EpRewMean               | 185         |
+| EpThisIter              | 13          |
+| EpisodesSoFar           | 1749        |
+| TimeElapsed             | 57.6        |
+| TimestepsSoFar          | 63488       |
+| Tsallis-q               | 1           |
+| entloss                 | 0.0         |
+| entropy                 | 8.358061    |
+| explained_variance_t... | 0.744       |
+| meankl                  | 0.003751922 |
+| optimgain               | 0.005170974 |
+| surrgain                | 0.005170974 |
+-----------------------------------------
+********** Iteration 31 ************
+Optimizing Policy...
+------------------------------------------
+| EpLenMean               | 135          |
+| EpRewMean               | 194          |
+| EpThisIter              | 14           |
+| EpisodesSoFar           | 1763         |
+| TimeElapsed             | 59.4         |
+| TimestepsSoFar          | 65536        |
+| Tsallis-q               | 1            |
+| entloss                 | 0.0          |
+| entropy                 | 8.351939     |
+| explained_variance_t... | 0.857        |
+| meankl                  | 0.001472601  |
+| optimgain               | 0.0011453733 |
+| surrgain                | 0.0011453733 |
+------------------------------------------
+********** Iteration 32 ************
+Optimizing Policy...
+------------------------------------------
+| EpLenMean               | 152          |
+| EpRewMean               | 207          |
+| EpThisIter              | 12           |
+| EpisodesSoFar           | 1775         |
+| TimeElapsed             | 61.2         |
+| TimestepsSoFar          | 67584        |
+| Tsallis-q               | 1            |
+| entloss                 | 0.0          |
+| entropy                 | 8.345923     |
+| explained_variance_t... | 0.845        |
+| meankl                  | 0.0004664067 |
+| optimgain               | 0.0036556602 |
+| surrgain                | 0.0036556602 |
+------------------------------------------
+********** Iteration 33 ************
+Optimizing Policy...
+-------------------------------------------
+| EpLenMean               | 156           |
+| EpRewMean               | 210           |
+| EpThisIter              | 14            |
+| EpisodesSoFar           | 1789          |
+| TimeElapsed             | 63            |
+| TimestepsSoFar          | 69632         |
+| Tsallis-q               | 1             |
+| entloss                 | 0.0           |
+| entropy                 | 8.34067       |
+| explained_variance_t... | 0.872         |
+| meankl                  | 0.00047944335 |
+| optimgain               | 0.0019269334  |
+| surrgain                | 0.0019269334  |
+-------------------------------------------
+********** Iteration 34 ************
+Optimizing Policy...
+------------------------------------------
+| EpLenMean               | 122          |
+| EpRewMean               | 158          |
+| EpThisIter              | 23           |
+| EpisodesSoFar           | 1812         |
+| TimeElapsed             | 64.8         |
+| TimestepsSoFar          | 71680        |
+| Tsallis-q               | 1            |
+| entloss                 | 0.0          |
+| entropy                 | 8.3356       |
+| explained_variance_t... | 0.817        |
+| meankl                  | 0.0006313843 |
+| optimgain               | 0.0054507507 |
+| surrgain                | 0.0054507507 |
+------------------------------------------
+********** Iteration 35 ************
+Optimizing Policy...
+------------------------------------------
+| EpLenMean               | 118          |
+| EpRewMean               | 153          |
+| EpThisIter              | 12           |
+| EpisodesSoFar           | 1824         |
+| TimeElapsed             | 66.6         |
+| TimestepsSoFar          | 73728        |
+| Tsallis-q               | 1            |
+| entloss                 | 0.0          |
+| entropy                 | 8.331448     |
+| explained_variance_t... | 0.908        |
+| meankl                  | 0.001108917  |
+| optimgain               | 0.0027357521 |
+| surrgain                | 0.0027357521 |
+------------------------------------------
+********** Iteration 36 ************
+Optimizing Policy...
+------------------------------------------
+| EpLenMean               | 119          |
+| EpRewMean               | 153          |
+| EpThisIter              | 16           |
+| EpisodesSoFar           | 1840         |
+| TimeElapsed             | 68.3         |
+| TimestepsSoFar          | 75776        |
+| Tsallis-q               | 1            |
+| entloss                 | 0.0          |
+| entropy                 | 8.327509     |
+| explained_variance_t... | 0.826        |
+| meankl                  | 0.0005714625 |
+| optimgain               | 0.0035311477 |
+| surrgain                | 0.0035311477 |
+------------------------------------------
+********** Iteration 37 ************
+Optimizing Policy...
+------------------------------------------
+| EpLenMean               | 113          |
+| EpRewMean               | 160          |
+| EpThisIter              | 21           |
+| EpisodesSoFar           | 1861         |
+| TimeElapsed             | 70.1         |
+| TimestepsSoFar          | 77824        |
+| Tsallis-q               | 1            |
+| entloss                 | 0.0          |
+| entropy                 | 8.322538     |
+| explained_variance_t... | 0.752        |
+| meankl                  | 0.0014787207 |
+| optimgain               | 0.0074634    |
+| surrgain                | 0.0074634    |
+------------------------------------------
+********** Iteration 38 ************
+Optimizing Policy...
+------------------------------------------
+| EpLenMean               | 111          |
+| EpRewMean               | 158          |
+| EpThisIter              | 16           |
+| EpisodesSoFar           | 1877         |
+| TimeElapsed             | 71.9         |
+| TimestepsSoFar          | 79872        |
+| Tsallis-q               | 1            |
+| entloss                 | 0.0          |
+| entropy                 | 8.317137     |
+| explained_variance_t... | 0.839        |
+| meankl                  | 0.00226517   |
+| optimgain               | 0.0047336016 |
+| surrgain                | 0.0047336016 |
+------------------------------------------
+********** Iteration 39 ************
+Optimizing Policy...
+------------------------------------------
+| EpLenMean               | 132          |
+| EpRewMean               | 187          |
+| EpThisIter              | 12           |
+| EpisodesSoFar           | 1889         |
+| TimeElapsed             | 73.6         |
+| TimestepsSoFar          | 81920        |
+| Tsallis-q               | 1            |
+| entloss                 | 0.0          |
+| entropy                 | 8.31179      |
+| explained_variance_t... | 0.9          |
+| meankl                  | 0.0015971386 |
+| optimgain               | 0.0019799965 |
+| surrgain                | 0.0019799965 |
+------------------------------------------
+********** Iteration 40 ************
+Optimizing Policy...
+------------------------------------------
+| EpLenMean               | 145          |
+| EpRewMean               | 205          |
+| EpThisIter              | 14           |
+| EpisodesSoFar           | 1903         |
+| TimeElapsed             | 75.4         |
+| TimestepsSoFar          | 83968        |
+| Tsallis-q               | 1            |
+| entloss                 | 0.0          |
+| entropy                 | 8.306891     |
+| explained_variance_t... | 0.849        |
+| meankl                  | 0.0010627746 |
+| optimgain               | 0.0029338272 |
+| surrgain                | 0.0029338272 |
+------------------------------------------
+********** Iteration 41 ************
+Optimizing Policy...
+------------------------------------------
+| EpLenMean               | 158          |
+| EpRewMean               | 225          |
+| EpThisIter              | 13           |
+| EpisodesSoFar           | 1916         |
+| TimeElapsed             | 77.2         |
+| TimestepsSoFar          | 86016        |
+| Tsallis-q               | 1            |
+| entloss                 | 0.0          |
+| entropy                 | 8.303129     |
+| explained_variance_t... | 0.9          |
+| meankl                  | 0.0012049344 |
+| optimgain               | 0.0020129732 |
+| surrgain                | 0.0020129732 |
+------------------------------------------
+********** Iteration 42 ************
+Optimizing Policy...
+------------------------------------------
+| EpLenMean               | 151          |
+| EpRewMean               | 219          |
+| EpThisIter              | 13           |
+| EpisodesSoFar           | 1929         |
+| TimeElapsed             | 79           |
+| TimestepsSoFar          | 88064        |
+| Tsallis-q               | 1            |
+| entloss                 | 0.0          |
+| entropy                 | 8.299228     |
+| explained_variance_t... | 0.923        |
+| meankl                  | 0.0005750032 |
+| optimgain               | 0.0017396554 |
+| surrgain                | 0.0017396554 |
+------------------------------------------
+********** Iteration 43 ************
+Optimizing Policy...
+------------------------------------------
+| EpLenMean               | 143          |
+| EpRewMean               | 213          |
+| EpThisIter              | 16           |
+| EpisodesSoFar           | 1945         |
+| TimeElapsed             | 80.8         |
+| TimestepsSoFar          | 90112        |
+| Tsallis-q               | 1            |
+| entloss                 | 0.0          |
+| entropy                 | 8.295321     |
+| explained_variance_t... | 0.802        |
+| meankl                  | 0.0006405455 |
+| optimgain               | 0.003129037  |
+| surrgain                | 0.003129037  |
+------------------------------------------
+********** Iteration 44 ************
+Optimizing Policy...
+------------------------------------------
+| EpLenMean               | 155          |
+| EpRewMean               | 231          |
+| EpThisIter              | 11           |
+| EpisodesSoFar           | 1956         |
+| TimeElapsed             | 82.6         |
+| TimestepsSoFar          | 92160        |
+| Tsallis-q               | 1            |
+| entloss                 | 0.0          |
+| entropy                 | 8.292479     |
+| explained_variance_t... | 0.903        |
+| meankl                  | 0.0020454556 |
+| optimgain               | 0.0035756247 |
+| surrgain                | 0.0035756247 |
+------------------------------------------
+********** Iteration 45 ************
+Optimizing Policy...
+------------------------------------------
+| EpLenMean               | 152          |
+| EpRewMean               | 217          |
+| EpThisIter              | 14           |
+| EpisodesSoFar           | 1970         |
+| TimeElapsed             | 84.4         |
+| TimestepsSoFar          | 94208        |
+| Tsallis-q               | 1            |
+| entloss                 | 0.0          |
+| entropy                 | 8.292125     |
+| explained_variance_t... | 0.929        |
+| meankl                  | 0.0012824181 |
+| optimgain               | 0.004364928  |
+| surrgain                | 0.004364928  |
+------------------------------------------
+********** Iteration 46 ************
+Optimizing Policy...
