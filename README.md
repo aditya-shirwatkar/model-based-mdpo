@@ -3,10 +3,10 @@
 - **Current Literature**[^1]
   - So far MD-style algorithms have been of model-free learning type
 - **Novelty**
-  - We propose to learn model-ensemble to generate dynamics rollout, which will be then used to update the policy parameters with MDPO
+  - We propose to learn ensemble of system dynamics, which will be then used to generate rollouts and update the policy parameters with MDPO
 - **Motivation**[^2]
-  - Model-free methods tend to suffer from high sample complexity which hinders their use in real-world domains
-  - Model-based methods reduce sample complexity, but tends to require careful tuning
+  - Model-free methods tend to suffer from high sample complexity, and Model-based methods reduce sample complexity, but tend to require careful tuning
+  - An ensemble of models maintains the model uncertainty and regularizes the learning process
 
 
 [^1]: Tomar, M. et al. Mirror Descent Policy Optimization.
